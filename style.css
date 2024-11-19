@@ -1,0 +1,58 @@
+body {
+    background-color: hsl(120, 7%, 3%);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(10, 15, 3);
+    color: hsl(0, 71%, 99%);
+    font
+    -family: Georgia, 'Times New Roman', Times, serif ;
+}
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+
+
+}
+main {
+    text-align: center;
+    max-width: 50%;
+}
+
+img {
+    max-width: 70%;
+}
+img {
+    max-width: 65%;
+
+}
+img {
+    max-width: 65%;
+
+}
+img{
+    max-width: 65%;
+}
+img{
+    max-width: 65%;
+}
+img{
+    max-width: 65%;
+}
+img{
+    max-width: 65%;
+}
+
+
+
+
